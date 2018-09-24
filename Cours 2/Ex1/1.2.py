@@ -9,5 +9,5 @@ while  c<longueur :
        d=d+1
    c=c+1
 print(d)
-#Ex1.1 et 1.2
+#Ex1 et 1.2
 
